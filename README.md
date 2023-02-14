@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimoKapi
-- 👀 I’m interested in Computer Science and in general Artifical Intelligence
+- 👀 I’m interested in Computer Science, Artifical Intelligence (including Machine Learning) and NLP
 - 🌱 I’m currently learning Java and C++ and am practicing Python
 
 <!---
